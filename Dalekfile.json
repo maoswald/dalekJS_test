@@ -1,0 +1,8 @@
+{
+  "logLevel": 1,
+  "browsers": [{
+   "firefox": {
+     "path": "/usr/bin/firefox"
+   }
+ }]
+}
